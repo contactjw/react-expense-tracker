@@ -1,3 +1,7 @@
+![alt text](./src/imgs/Screen%20Shot%202022-07-26%20at%2011.57.10%20AM.png)
+
+![alt text](./src/imgs/Screen%20Shot%202022-07-26%20at%2011.57.19%20AM.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
